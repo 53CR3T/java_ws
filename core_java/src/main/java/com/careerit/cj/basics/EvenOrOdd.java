@@ -11,7 +11,7 @@ public class EvenOrOdd
         int num= sc.nextInt();
         if (num%2==0)
         {
-            System.out.println("number is even");
+            System.out.println("number is divided by 2");
         }
         else
         {
