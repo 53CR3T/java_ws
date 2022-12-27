@@ -26,7 +26,7 @@ public class GenerateNPrimes
             i++;
         }
     }
-    private static boolean isPrime(int num)
+    public static boolean isPrime(int num)
     {
         if ((num<2)||num%2==0 &&num !=2)
         {
